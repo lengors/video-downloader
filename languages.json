@@ -1,0 +1,28 @@
+{
+    "en-US.lang": {
+        "name": "English (United States)",
+        "title": "Your favorite downloader ❤️",
+        "error": "Error",
+        "information": "Information",
+        "link_error": "link not specified",
+        "video_link": "Video's link",
+        "file_location": "File's location",
+        "file_name": "File's name",
+        "download_success": "download ended successfully",
+        "download_failed": "download failed",
+        "browse": "Browse"
+    },
+    "pt-PT.lang": {
+        "name": "Português (Portugal)",
+        "title": "O teu downloader favorito ❤️",
+        "error": "Erro",
+        "information": "Informação",
+        "link_error": "link não especificado",
+        "video_link": "Link do vídeo",
+        "file_location": "Localização do ficheiro",
+        "file_name": "Nome do ficheiro",
+        "download_success": "download terminou com sucesso",
+        "download_failed": "download falhou",
+        "browse": "Procurar"
+    }
+}
